@@ -70,7 +70,7 @@
           height="600px" 
           style="border:none;">
   </iframe>
-  <p><a href="resume/Rukmini_KS_Resume.pdf" download>Download Resume</a></p>
+  <p><a href="Rukmini_KS_Resume_v3.pdf" download>Download Resume</a></p>
 </div>
 
 
