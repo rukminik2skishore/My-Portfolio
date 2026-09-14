@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>🌟 Rukmini K S || FP&A Associate</title>
+  <title>Rukmini K S || FP&A Associate</title>
   <style>
     body {
       background-color: black;
