@@ -1,17 +1,16 @@
-
 <html>
 <head>
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
     body {
-  background-image: url('background.png'); /* or assets/background.png if in a folder */
-  background-size: cover;        /* makes it fill the screen */
-  background-repeat: no-repeat;  /* prevents tiling */
-  background-attachment: fixed;  /* keeps it steady while scrolling */
-  background-position: center;   /* centers the image */
-  color: white;                  /* ensures text stays readable */
-  font-family: Arial, sans-serif;
-}
+      background-image: url('background.png'); /* or assets/background.png if in a folder */
+      background-size: cover;        /* makes it fill the screen */
+      background-repeat: no-repeat;  /* prevents tiling */
+      background-attachment: fixed;  /* keeps it steady while scrolling */
+      background-position: center;   /* centers the image */
+      color: white;                  /* ensures text stays readable */
+      font-family: Arial, sans-serif;
+    }  /* <-- this closing brace was missing */
 
     .nav-btn {
       display: inline-block;
@@ -24,9 +23,11 @@
       font-weight: bold;
       cursor: pointer;
     }
+
     .nav-btn:hover {
       background-color: #0077b5;
     }
+
     .section {
       display: none; /* hidden by default */
       margin-top: 20px;
@@ -35,6 +36,7 @@
       margin-left: auto;
       margin-right: auto;
     }
+
     .section.active {
       display: block; /* show when active */
       border-left: 4px solid #00aced;
