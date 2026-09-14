@@ -68,7 +68,7 @@
   <ul>
     <div style="display: flex; align-items: center;">
   <!-- Photo -->
-  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+  <img src="Profile Photo(1).png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
 
   <!-- Text -->
   <div>
