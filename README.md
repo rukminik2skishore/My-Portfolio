@@ -62,7 +62,6 @@
 
 
 <div id="about" class="section">
-  <h2>💼 About</h2>
   <ul>
     <div style="display: flex; align-items: center;">
   <!-- Photo -->
