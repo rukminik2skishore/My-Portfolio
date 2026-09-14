@@ -64,11 +64,8 @@
 
 <div id="resume" class="section">
   <h2>📄 Resume</h2>
-  <p><a href="resume/Rukmini_KS_Resume.pdf" target="_blank">View Resume</a></p>
-</div>
-<div id="resume" class="section">
+  <div id="resume" class="section">
   <h2>📄 Resume</h2>
-  <!-- Embedded PDF viewer -->
   <iframe src="resume/Rukmini_KS_Resume.pdf" 
           width="100%" 
           height="600px" 
