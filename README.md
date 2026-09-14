@@ -62,15 +62,6 @@
   Skilled in turning complex data into actionable insights for stakeholders.</p>
 </div>
 
-<div id="resume" class="section">
-  <h2>📄 Resume</h2>
-  <iframe src="Rukmini_KS_Resume_v3.pdf" 
-          width="100%" 
-          height="600px" 
-          style="border:none;">
-  </iframe>
-</div>
-
 <div id="experience" class="section">
   <h2>💼 Experience</h2>
   <h3>UST Global – Associate, Business Finance (FP&A)</h3>
