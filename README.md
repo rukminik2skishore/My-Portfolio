@@ -1,57 +1,39 @@
-# 🌟 Rukmini K S – FP&A Portfolio
+# 🌟 Rukmini K S || FP&A Associate
 
-## 👩‍💼 About Me
-Associate – Business Finance (FP&A) at UST Global.  
-Passionate about corporate finance, analytics, and automation.  
-Skilled in turning complex data into actionable insights for stakeholders.
-
----
-
-## 📄 Resume
-[Download Resume](resume/Rukmini_KS_Resume.pdf)
-
----
-
-## 💼 Experience
-### UST Global – Associate, Business Finance (FP&A)
-- Budgeting, Forecasting, Variance Analysis, and P&L Analysis
-- Automated reporting workflows, reducing cycle time by 50%
-- Partnered with stakeholders to deliver accurate and timely insights
-
----
-
-## 📊 Demo Projects
-### Power BI Dashboard
-![Dashboard Screenshot](dashboards/powerbi_dashboard.png)  
-*Automated FP&A reporting with interactive visuals.*
-
-### SQL Practice Database
-[View SQL Scripts](projects/sql_queries.sql)  
-*Built sample queries for financial data analysis and reporting.*
-
-### Excel FP&A Model
-[Download Excel Model](projects/fpa_model.xlsx)  
-*Variance analysis and forecasting using advanced Excel functions.*
-
----
-
-## 🎓 Education & Awards
-- **M.Com (Finance)** – Govt. College for Women, Thiruvananthapuram  
-  *University Rank Holder, Aspire Research Award, Best Manager Competition Winner*  
-- **B.Com (Taxation)** – KNM Govt. Arts & Science College  
-
----
-
-## 🏆 Skills
-- **Excel:** Pivot Tables, XLOOKUP, INDEX-MATCH  
-- **Power BI:** Data Modeling, DAX, Power Query  
-- **SQL:** Beginner–Intermediate (custom sample database practice)  
-- **ERP Tools:** SAP Concur, Tally ERP  
-- **FP&A Expertise:** Budgeting, Forecasting, Variance Analysis, P&L Analysis  
-
----
-
-## 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/rukmini-ks-98a13725a/)  
-- Email: rukmini@example.com  
-- Phone: +91-XXXXXXXXXX
+<div align="center">
+  <a href="#-about-me">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      About Me
+    </button>
+  </a>
+  <a href="#-resume">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      Resume
+    </button>
+  </a>
+  <a href="#-experience">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      Experience
+    </button>
+  </a>
+  <a href="#-demo-projects">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      Demo Projects
+    </button>
+  </a>
+  <a href="#-education--awards">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      Education & Awards
+    </button>
+  </a>
+  <a href="#-skills">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      Skills
+    </button>
+  </a>
+  <a href="#-contact">
+    <button style="background-color:#00aced; color:white; border:none; padding:10px 20px; margin:5px; cursor:pointer;">
+      Contact
+    </button>
+  </a>
+</div>
