@@ -68,7 +68,7 @@
   <ul>
     <div style="display: flex; align-items: center;">
   <!-- Photo -->
-  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:200px; border-radius:80px;">
 </div>
     <li>Associate – Business Finance (FP&A) at UST Global</li>
     <li>Passionate about corporate finance, analytics, and automation</li>
