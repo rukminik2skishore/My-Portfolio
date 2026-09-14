@@ -4,11 +4,15 @@
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
     body {
-      background-color: Black;
-      color: white;
-      font-family: Arial, sans-serif;
-      text-align: center;
-    }
+  background-image: url('background.png'); /* or assets/background.png if in a folder */
+  background-size: cover;        /* makes it fill the screen */
+  background-repeat: no-repeat;  /* prevents tiling */
+  background-attachment: fixed;  /* keeps it steady while scrolling */
+  background-position: center;   /* centers the image */
+  color: white;                  /* ensures text stays readable */
+  font-family: Arial, sans-serif;
+}
+
     .nav-btn {
       display: inline-block;
       background-color: #00aced;
