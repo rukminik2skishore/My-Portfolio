@@ -24,11 +24,9 @@
       font-weight: bold;
       cursor: pointer;
     }
-
     .nav-btn:hover {
       background-color: #0077b5;
     }
-
     .section {
       display: none; /* hidden by default */
       margin-top: 20px;
@@ -37,7 +35,6 @@
       margin-left: auto;
       margin-right: auto;
     }
-
     .section.active {
       display: block; /* show when active */
       border-left: 4px solid #00aced;
