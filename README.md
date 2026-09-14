@@ -133,7 +133,7 @@
 
 <div id="contact" class="section">
   <h2>📬 Contact</h2>
-  LinkedIn Profile: <p><a href="https://www.linkedin.com/in/rukmini-ks-98a13725a/" target="_blank">LinkedIn</a><br>
+  <p>LinkedIn Profile: <a> href="https://www.linkedin.com/in/rukmini-ks-98a13725a/" target="_blank">LinkedIn</a><br>
   Email: rukminik2skishsun20@gmail.com<br>
   Phone: +91-9148866329</p>
 </div>
