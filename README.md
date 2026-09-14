@@ -3,7 +3,7 @@
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
    body {
-  background-image: url('background.png');
+  background-image: url('Copilot_20260914_210938.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
