@@ -41,7 +41,7 @@
 </head>
 <body>
 
-<h1>🌟 Rukmini K S || FP&A Associate</h1>
+<h1> Rukmini K S || FP&A Associate</h1>
 
 <!-- Navigation Buttons -->
 <div>
