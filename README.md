@@ -46,6 +46,7 @@
 <!-- Navigation Buttons -->
 <div>
   <button class="nav-btn" onclick="showSection('about')">About Me</button>
+  <button class="nav-btn" onclick="showSection('resume')">Resume Me</button>
   <button class="nav-btn" onclick="showSection('experience')">Experience</button>
   <button class="nav-btn" onclick="showSection('projects')">Demo Projects</button>
   <button class="nav-btn" onclick="showSection('education')">Education & Awards</button>
@@ -59,6 +60,16 @@
   <p>Associate – Business Finance (FP&A) at UST Global.<br>
   Passionate about corporate finance, analytics, and automation.<br>
   Skilled in turning complex data into actionable insights for stakeholders.</p>
+</div>
+
+<div id="resume" class="section">
+  <h2>📄 Resume</h2>
+  <iframe src="Rukmini_KS_Resume_v3.pdf" 
+          width="100%" 
+          height="600px" 
+          style="border:none;">
+  </iframe>
+  <p><a href="Rukmini_KS_Resume_v3.pdf" download>Download Resume</a></p>
 </div>
 
 <div id="experience" class="section">
