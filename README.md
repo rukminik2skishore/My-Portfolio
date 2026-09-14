@@ -133,9 +133,9 @@
 
 <div id="contact" class="section">
   <h2>📬 Contact</h2>
-  <p><a href="https://www.linkedin.com/in/rukmini-ks-98a13725a/" target="_blank">LinkedIn</a><br>
-  Email: rukmini@example.com<br>
-  Phone: +91-XXXXXXXXXX</p>
+  LinkedIn Profile: <p><a href="https://www.linkedin.com/in/rukmini-ks-98a13725a/" target="_blank">LinkedIn</a><br>
+  Email: rukminik2skishsun20@gmail.com<br>
+  Phone: +91-9148866329</p>
 </div>
 
 <script>
