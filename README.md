@@ -68,13 +68,17 @@
   <ul>
     <div style="display: flex; align-items: center;">
   <!-- Photo -->
-  <img src="Profile Photo(1).png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+
+  <!-- Text -->
+  <div>
+    <h2>Rukmini K S</h2>
+    <p>Associate – Business Finance (FP&A) at UST Global.</p>
+    <p>Passionate about corporate finance, analytics, and automation.</p>
+    <p>Skilled in turning complex data into actionable insights for stakeholders.</p>
+  </div>
 </div>
-    <li>Associate – Business Finance (FP&A) at UST Global</li>
-    <li>Passionate about corporate finance, analytics, and automation</li>
-    <li>Skilled in turning complex data into actionable insights for stakeholders</li>
-  </ul>
-</div>
+
 
 <div id="resume" class="section">
   <h2>📄 Resume</h2>
