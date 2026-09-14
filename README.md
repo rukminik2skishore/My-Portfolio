@@ -61,14 +61,15 @@
 </div>
 
 <!-- Sections -->
-<div style="display: flex; align-items: center;">
-  <!-- Photo -->
-  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
-</div>
+
 
 <div id="about" class="section">
   <h2>💼 About</h2>
   <ul>
+    <div style="display: flex; align-items: center;">
+  <!-- Photo -->
+  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+</div>
     <li>Associate – Business Finance (FP&A) at UST Global</li>
     <li>Passionate about corporate finance, analytics, and automation</li>
     <li>Skilled in turning complex data into actionable insights for stakeholders</li>
