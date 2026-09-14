@@ -46,12 +46,12 @@
 <!-- Navigation Buttons -->
 <div>
   <button class="nav-btn" onclick="showSection('about')">About Me</button>
-  <button class="nav-btn" onclick="showSection('resume')">Resume Me</button>
   <button class="nav-btn" onclick="showSection('experience')">Experience</button>
   <button class="nav-btn" onclick="showSection('projects')">Demo Projects</button>
   <button class="nav-btn" onclick="showSection('education')">Education & Awards</button>
   <button class="nav-btn" onclick="showSection('skills')">Skills</button>
   <button class="nav-btn" onclick="showSection('contact')">Contact</button>
+  <button class="nav-btn" onclick="showSection('resume')">Resume Me</button>
 </div>
 
 <!-- Sections -->
