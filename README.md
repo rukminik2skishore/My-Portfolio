@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>🌟 Rukmini K S || FP&A Associate</title>
+  <title>🌟 Rukmini KS || FP&A Associate</title>
   <style>
    body 
     {
