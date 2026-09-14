@@ -15,7 +15,7 @@
       color: white;
       padding: 10px 20px;
       margin: 5px;
-      text-decoration: none;
+      border: none;
       border-radius: 5px;
       font-weight: bold;
       cursor: pointer;
