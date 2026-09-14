@@ -4,7 +4,7 @@
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
     body {
-      background-color: Green;
+      background-color: Black;
       color: white;
       font-family: Arial, sans-serif;
       text-align: center;
