@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
     body {
-      background-color: BLACK;
+      background-color: black;
       color: white;
       font-family: Arial, sans-serif;
       text-align: center;
@@ -63,15 +64,8 @@
 
 <div id="resume" class="section">
   <h2>📄 Resume</h2>
-  <div id="resume" class="section">
-  <h2>📄 Resume</h2>
-  <iframe src="resume/Rukmini_KS_Resume.pdf" 
-          width="100%" 
-          height="600px" 
-          style="border: none;">
-  </iframe>
+  <p><a href="resume/Rukmini_KS_Resume.pdf" target="_blank">View Resume</a></p>
 </div>
-
 
 <div id="experience" class="section">
   <h2>💼 Experience</h2>
