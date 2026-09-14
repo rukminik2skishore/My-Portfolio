@@ -2,15 +2,21 @@
 <head>
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
-    body {
-      background-image: url('background.png'); /* or assets/background.png if in a folder */
-      background-size: cover;        /* makes it fill the screen */
-      background-repeat: no-repeat;  /* prevents tiling */
-      background-attachment: fixed;  /* keeps it steady while scrolling */
-      background-position: center;   /* centers the image */
-      color: white;                  /* ensures text stays readable */
-      font-family: Arial, sans-serif;
-    }  /* <-- this closing brace was missing */
+   body {
+  background-image: url('background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: white;
+  font-family: Arial, sans-serif;
+  animation: fadeIn 2s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
 
     .nav-btn {
       display: inline-block;
@@ -43,6 +49,8 @@
       padding-left: 10px;
       background-color: #111;
     }
+
+    
   </style>
 </head>
 <body>
