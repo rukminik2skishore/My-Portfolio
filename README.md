@@ -2,7 +2,8 @@
 <head>
   <title>🌟 Rukmini K S || FP&A Associate</title>
   <style>
-   body {
+   body 
+    {
   background-image: url('Copilot_20260914_210938.png');
   background-size: cover;
   background-repeat: no-repeat;
@@ -10,14 +11,8 @@
   background-position: center;
   color: white;
   font-family: Arial, sans-serif;
-  animation: fadeIn 2s ease-in;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
+  animation: fadeIn 2s ease-in
+  ;}
     .nav-btn {
       display: inline-block;
       background-color: #00aced;
