@@ -64,15 +64,12 @@
 
 <div id="resume" class="section">
   <h2>📄 Resume</h2>
-  <!-- Inline PDF viewer -->
-  <iframe src="resume/Rukmini_KS_Resume.pdf" 
+  <iframe src="Rukmini_KS_Resume_v3.pdf" 
           width="100%" 
           height="600px" 
           style="border:none;">
   </iframe>
-  <p><a href="Rukmini_KS_Resume_v3.pdf" download>Download Resume</a></p>
 </div>
-
 
 <div id="experience" class="section">
   <h2>💼 Experience</h2>
