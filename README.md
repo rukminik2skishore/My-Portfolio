@@ -1,36 +1,132 @@
-# 🌟 Rukmini K S || FP&A Associate
+<!DOCTYPE html>
+<html>
+<head>
+  <title>🌟 Rukmini K S || FP&A Associate</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    .nav-btn {
+      display: inline-block;
+      background-color: #00aced;
+      color: white;
+      padding: 10px 20px;
+      margin: 5px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .nav-btn:hover {
+      background-color: #0077b5;
+    }
+    .section {
+      display: none; /* hidden by default */
+      margin-top: 20px;
+      text-align: left;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .section.active {
+      display: block; /* show when active */
+      border-left: 4px solid #00aced;
+      padding-left: 10px;
+      background-color: #111;
+    }
+  </style>
+</head>
+<body>
 
-<div align="center">
-  <a href="#about-me" class="nav-btn">About Me</a>
-  <a href="#resume" class="nav-btn">Resume</a>
-  <a href="#experience" class="nav-btn">Experience</a>
-  <a href="#demo-projects" class="nav-btn">Demo Projects</a>
-  <a href="#education--awards" class="nav-btn">Education & Awards</a>
-  <a href="#skills" class="nav-btn">Skills</a>
-  <a href="#contact" class="nav-btn">Contact</a>
+<h1>🌟 Rukmini K S || FP&A Associate</h1>
+
+<!-- Navigation Buttons -->
+<div>
+  <button class="nav-btn" onclick="showSection('about')">About Me</button>
+  <button class="nav-btn" onclick="showSection('resume')">Resume</button>
+  <button class="nav-btn" onclick="showSection('experience')">Experience</button>
+  <button class="nav-btn" onclick="showSection('projects')">Demo Projects</button>
+  <button class="nav-btn" onclick="showSection('education')">Education & Awards</button>
+  <button class="nav-btn" onclick="showSection('skills')">Skills</button>
+  <button class="nav-btn" onclick="showSection('contact')">Contact</button>
 </div>
 
-<style>
-  body {
-    background-color: black;
-    color: white;
+<!-- Sections -->
+<div id="about" class="section active">
+  <h2>👩‍💼 About Me</h2>
+  <p>Associate – Business Finance (FP&A) at UST Global.<br>
+  Passionate about corporate finance, analytics, and automation.<br>
+  Skilled in turning complex data into actionable insights for stakeholders.</p>
+</div>
+
+<div id="resume" class="section">
+  <h2>📄 Resume</h2>
+  <p><a href="resume/Rukmini_KS_Resume.pdf" target="_blank">View Resume</a></p>
+</div>
+
+<div id="experience" class="section">
+  <h2>💼 Experience</h2>
+  <h3>UST Global – Associate, Business Finance (FP&A)</h3>
+  <ul>
+    <li>Budgeting, Forecasting, Variance Analysis, and P&L Analysis</li>
+    <li>Automated reporting workflows, reducing cycle time by 50%</li>
+    <li>Partnered with stakeholders to deliver accurate and timely insights</li>
+  </ul>
+</div>
+
+<div id="projects" class="section">
+  <h2>📊 Demo Projects</h2>
+  <p><strong>Power BI Dashboard</strong><br>
+  <img src="dashboards/powerbi_dashboard.png" alt="Dashboard Screenshot"><br>
+  Automated FP&A reporting with interactive visuals.</p>
+
+  <p><strong>SQL Practice Database</strong><br>
+  <a href="projects/sql_queries.sql" target="_blank">View SQL Scripts</a><br>
+  Built sample queries for financial data analysis and reporting.</p>
+
+  <p><strong>Excel FP&A Model</strong><br>
+  <a href="projects/fpa_model.xlsx" target="_blank">View Excel Model</a><br>
+  Variance analysis and forecasting using advanced Excel functions.</p>
+</div>
+
+<div id="education" class="section">
+  <h2>🎓 Education & Awards</h2>
+  <ul>
+    <li><strong>M.Com (Finance)</strong> – Govt. College for Women, Thiruvananthapuram  
+      <em>University Rank Holder, Aspire Research Award, Best Manager Competition Winner</em></li>
+    <li><strong>B.Com (Taxation)</strong> – KNM Govt. Arts & Science College</li>
+  </ul>
+</div>
+
+<div id="skills" class="section">
+  <h2>🏆 Skills</h2>
+  <ul>
+    <li>Excel: Pivot Tables, XLOOKUP, INDEX-MATCH</li>
+    <li>Power BI: Data Modeling, DAX, Power Query</li>
+    <li>SQL: Beginner–Intermediate</li>
+    <li>ERP Tools: SAP Concur, Tally ERP</li>
+    <li>FP&A Expertise: Budgeting, Forecasting, Variance Analysis, P&L Analysis</li>
+  </ul>
+</div>
+
+<div id="contact" class="section">
+  <h2>📬 Contact</h2>
+  <p><a href="https://www.linkedin.com/in/rukmini-ks-98a13725a/" target="_blank">LinkedIn</a><br>
+  Email: rukmini@example.com<br>
+  Phone: +91-XXXXXXXXXX</p>
+</div>
+
+<script>
+  function showSection(id) {
+    // Hide all sections
+    document.querySelectorAll('.section').forEach(sec => sec.classList.remove('active'));
+    // Show the clicked section
+    document.getElementById(id).classList.add('active');
   }
-  .nav-btn {
-    display: inline-block;
-    background-color: #00aced;
-    color: white;
-    padding: 10px 20px;
-    margin: 5px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-  }
-  .nav-btn:hover {
-    background-color: #0077b5; /* darker LinkedIn blue */
-  }
-  :target {
-    background-color: #222; /* highlight effect */
-    padding: 5px;
-    border-left: 4px solid #00aced;
-  }
-</style>
+</script>
+
+</body>
+</html>
