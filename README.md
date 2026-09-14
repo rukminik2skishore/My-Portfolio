@@ -63,7 +63,7 @@
 <!-- Sections -->
 <div id="about" class="section active">
   <h2>👩‍💼 About Me</h2>
-  <img src="profile" alt="Rukmini KS" 
+  <img src="Profile Photo(1).png" alt="Rukmini KS" 
        style="width:200px; border-radius:50%; margin-bottom:15px;">
   <p>Associate – Business Finance (FP&A) at UST Global.<br>
   Passionate about corporate finance, analytics, and automation.<br>
