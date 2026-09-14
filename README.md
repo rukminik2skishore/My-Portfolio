@@ -61,13 +61,17 @@
 </div>
 
 <!-- Sections -->
-<div id="about" class="section active">
-  <h2>👩‍💼 About Me</h2>
-  <img src="Profile Photo(1).png" alt="Rukmini KS" 
-       style="width:200px; border-radius:50%; margin-bottom:15px;">
-  <p>Associate – Business Finance (FP&A) at UST Global.<br>
-  Passionate about corporate finance, analytics, and automation.<br>
-  Skilled in turning complex data into actionable insights for stakeholders.</p>
+<div style="display: flex; align-items: center;">
+  <!-- Photo -->
+  <img src="your-photo.png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+
+  <!-- Text -->
+  <div>
+    <h2>Rukmini K S</h2>
+    <p>Associate – Business Finance (FP&A) at UST Global.</p>
+    <p>Passionate about corporate finance, analytics, and automation.</p>
+    <p>Skilled in turning complex data into actionable insights for stakeholders.</p>
+  </div>
 </div>
 
 
