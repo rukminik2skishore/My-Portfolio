@@ -61,7 +61,7 @@
 <!-- Sections -->
 
 
-<div id="about" class="section">
+<div id="about" class="section active">
   <div style="display: flex; align-items: center;">
     <!-- Photo -->
     <img src="Profile Photo(1).png" alt="Profile Photo" 
