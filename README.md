@@ -62,20 +62,20 @@
 
 
 <div id="about" class="section">
-  <ul>
-    <div style="display: flex; align-items: center;">
-  <!-- Photo -->
-  <img src="Profile Photo(1).png" alt="Profile Photo" style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
-
-  <!-- Text -->
-  <div>
-    <h2>Rukmini KS</h2>
-    <p>Associate – Business Finance (FP&A) at UST Global.</p>
-    <p>Passionate about corporate finance, analytics, and automation.</p>
-    <p>Skilled in turning complex data into actionable insights for stakeholders.</p>
+  <div style="display: flex; align-items: center;">
+    <!-- Photo -->
+    <img src="Profile Photo(1).png" alt="Profile Photo" 
+         style="width:200px; height:auto; margin-right:20px; border-radius:8px;">
+    <!-- Text -->
+    <div>
+      <h2>Rukmini KS</h2>
+      <p>Associate – Business Finance (FP&A) at UST Global.</p>
+      <p>Passionate about corporate finance, analytics, and automation.</p>
+      <p>Skilled in turning complex data into actionable insights for stakeholders.</p>
+    </div>
   </div>
-</div>
-</div>
+</div> <!-- ✅ Properly closed About section -->
+
 
 <div id="resume" class="section">
   <h2>📄 Resume</h2>
