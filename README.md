@@ -75,6 +75,7 @@
     <p>Skilled in turning complex data into actionable insights for stakeholders.</p>
   </div>
 </div>
+</div>
 
 <div id="resume" class="section">
   <h2>📄 Resume</h2>
